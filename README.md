@@ -17,4 +17,5 @@ ____________________
 Dive in and harness the power of interactive visuals to drive informed decisions! 💡📊
 
 # Image:
-![Dashboard Sales](https://github.com/karimdiab97/Sales-Dashboard-Power-BI/assets/101432419/22dfe67b-a1b9-4467-bda0-08189c9b7e54)
+![Dashboard Sales](https://github.com/karimdiab97/Sales-Dashboard-Power-BI/assets/101432419/bf75a8c5-00d1-4c2a-bad5-4687b3d71889)
+
